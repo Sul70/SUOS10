@@ -32,7 +32,7 @@ setlocal & pushd .
 cd /d %~dp0
 if '%1'=='ELEV' (del "%vbsGetPrivileges%" 1>nul 2>nul  &  shift /1)
 
-REM ~-~-~-~-~-~-~-~ Batch file starts hered
+REM ~-~-~-~-~-~-~-~ Batch file starts here
 echo.
 echo Starting the file... 
 ping localhost -n 2 > nul
