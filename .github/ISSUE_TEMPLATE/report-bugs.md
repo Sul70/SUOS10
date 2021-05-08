@@ -1,8 +1,8 @@
 ---
 name: Report Bugs
 about: Create a report to help us improve our OS
-title: HELP
-labels: ''
+title: There's a Bug in my Computer!
+labels: bug, good first issue
 assignees: ''
 
 ---

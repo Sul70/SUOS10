@@ -1,7 +1,7 @@
 ---
 name: Your Files
 about: If you REALLY Want to see your files in SUOS, here it is
-title: HELP
+title: I Want My File!
 labels: ''
 assignees: Sul70
 

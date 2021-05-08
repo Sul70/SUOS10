@@ -1,7 +1,7 @@
 ---
 name: Feature/File request
 about: Suggest something for this project
-title: HELP
+title: I Want this File/Feature.
 labels: ''
 assignees: ''
 
